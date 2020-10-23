@@ -13,4 +13,4 @@ Works in 6 steps:
 - Place the image between the the center and the user
 - Interact with gestures or voice
 
-For more info check the paper.
+For more info check the paper and Xuan Luo "Pepper's Cone" at: https://roxanneluo.github.io/PeppersCone.html .
